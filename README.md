@@ -17,7 +17,7 @@
 - 📊 **Enfoque actual:** Especializándome en **Business Intelligence** y análisis de datos avanzados.
 - 🏗️ **Especialista ERP:** Experiencia implementando y personalizando módulos en **Odoo 18 (Community & Enterprise)**.
 - ⚙️ **Backend & Integraciones:** Dominio de **Python** para lógica de negocio y **Odoo RPC** para integraciones externas.
-- 🧩 **Metodologías:** Experiencia como **Product Owner** bajo marco de trabajo **Scrum**.
+- 🧩 **Metodologías:** bajo marco de trabajo **Scrum**.
 - 🌱 **Aprendiendo:** Microsoft Fabric, Azure DevOps y perfeccionando despliegues con Docker.
 - 💬 **Hablamos sobre:** SQL, Modelado de datos, Odoo y cómo convertir datos en insights.
 
